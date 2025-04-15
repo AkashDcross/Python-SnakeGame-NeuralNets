@@ -42,6 +42,8 @@ The game works in the following steps:
 
 ---
 
+
+
 ## 🚀 Getting Started
 
 ### 🔧 Prerequisites
