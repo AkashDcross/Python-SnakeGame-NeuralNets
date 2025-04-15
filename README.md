@@ -5,8 +5,7 @@ A classic Snake game powered by a neural network trained via reinforcement learn
 ---
 
 ## 📂 Project Structure
-
-   ```bash
+ 
  
 ---
 ## 🎮 How It Works
