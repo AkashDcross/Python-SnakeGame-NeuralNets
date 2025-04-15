@@ -32,3 +32,12 @@ The game works in the following steps:
 
 5. **Learning**  
    The agent updates its neural network using **Deep Q-Learning** based on the feedback it receives, improving its strategy over time.
+---
+## 🧠 Technologies Used
+
+- **Python 3**: For the overall development of the project.
+- **Pygame**: For game rendering and handling the game logic.
+- **PyTorch**: For creating and training the neural network.
+- **Reinforcement Learning**: To enable the agent to learn through rewards and penalties over time.
+
+---
