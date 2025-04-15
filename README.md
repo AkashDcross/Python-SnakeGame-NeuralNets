@@ -50,6 +50,7 @@ Before running the game, make sure you have the following installed:
 
 - **Python 3.6+**
 - **pip** (Python package manager)
+---
 
 ### 📦 Installation
 
@@ -60,3 +61,27 @@ Follow these steps to get the project up and running:
    ```bash
    git clone https://github.com/AkashDcross/Python-SnakeGame-NeuralNets.git
    cd Python-SnakeGame-NeuralNets/snake-pygame
+
+2. Install the necessary dependencies:
+   pip install pygame torch
+
+
+### 📦 ▶️ Running the Game
+
+1. python snake_game.py
+2. Watch the snake play the game and improve as it learns through training!
+
+---
+
+### 📈 Training & Rewards
+The agent uses a reinforcement learning approach, receiving rewards and penalties based on its actions:
+
++10 for eating food.
+
+-10 for dying (hitting a wall or itself).
+
++0.1 for moving towards food.
+
+-0.1 for moving away from food.
+
+The model is updated using Deep Q-Learning to optimize decision-making, improving over time.
