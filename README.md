@@ -4,7 +4,7 @@ A classic Snake game powered by a neural network trained via reinforcement learn
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```bash
 snake-pygame/
@@ -19,7 +19,7 @@ snake-pygame/
 
 ---
 
-#🎮 How It Works
+# 🎮 How It Works
 
 The game works in the following steps:
 
