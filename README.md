@@ -8,11 +8,11 @@ A classic Snake game powered by a neural network trained via reinforcement learn
 
    ```bash
 snake-pygame/
-├── agent.py         # RL agent logic
-├── helper.py        # Utility functions
-├── model.py         # Neural network model (PyTorch)
-├── snake_game.py    # Game environment (Pygame)
-├── model/           # Saved models and training checkpoints
+ agent.py         # RL agent logic
+ helper.py        # Utility functions
+ model.py         # Neural network model (PyTorch)
+snake_game.py    # Game environment (Pygame)
+model/           # Saved models and training checkpoints
 
 ---
 ## 🎮 How It Works
