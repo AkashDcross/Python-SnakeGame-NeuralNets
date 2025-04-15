@@ -41,3 +41,22 @@ The game works in the following steps:
 - **Reinforcement Learning**: To enable the agent to learn through rewards and penalties over time.
 
 ---
+
+## 🚀 Getting Started
+
+### 🔧 Prerequisites
+
+Before running the game, make sure you have the following installed:
+
+- **Python 3.6+**
+- **pip** (Python package manager)
+
+### 📦 Installation
+
+Follow these steps to get the project up and running:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/AkashDcross/Python-SnakeGame-NeuralNets.git
+   cd Python-SnakeGame-NeuralNets/snake-pygame
