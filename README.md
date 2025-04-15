@@ -19,7 +19,7 @@ snake-pygame/
 
 ---
 
-## 🎮 How It Works
+#🎮 How It Works
 
 The game works in the following steps:
 
@@ -40,7 +40,7 @@ The game works in the following steps:
 
 ---
 
-## 🧠 Technologies Used
+# 🧠 Technologies Used
 
 - **Python 3**: For the overall development of the project.
 - **Pygame**: For game rendering and handling the game logic.
@@ -49,16 +49,16 @@ The game works in the following steps:
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
-### 🔧 Prerequisites
+## 🔧 Prerequisites
 
 Before running the game, make sure you have the following installed:
 
 - **Python 3.6+**
 - **pip** (Python package manager)
 
-### 📦 Installation
+# 📦 Installation
 
 Follow these steps to get the project up and running:
 
