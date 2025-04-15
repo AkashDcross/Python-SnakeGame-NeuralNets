@@ -6,9 +6,9 @@ A classic Snake game powered by a neural network trained via reinforcement learn
 
 ## 📂 Project Structure
 
-```bash
-git clone https://github.com/AkashDcross/Python-SnakeGame-NeuralNets.git
-cd Python-SnakeGame-NeuralNets/snake-pygame
+   ```bash
+   git clone https://github.com/AkashDcross/Python-SnakeGame-NeuralNets.git
+   cd Python-SnakeGame-NeuralNets/snake-pygame
 
 ## 🎮 How It Works
 
