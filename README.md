@@ -13,6 +13,7 @@ snake-pygame/
 ├── snake_game.py    # Game environment (Pygame)
 ├── model/           # Saved models and training checkpoints
 
+---
 ## 🎮 How It Works
 
 The game works in the following steps:
