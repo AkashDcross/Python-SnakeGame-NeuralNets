@@ -6,7 +6,7 @@ A classic Snake game powered by a neural network trained via reinforcement learn
 
 ## 📂 Project Structure
 
-```bash
+``bash
 snake-pygame/
 ├── agent.py         # RL agent logic
 ├── helper.py        # Utility functions
