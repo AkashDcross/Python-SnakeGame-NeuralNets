@@ -1,2 +1,15 @@
-🐍 Snake Game with Neural Networks (Pygame + PyTorch)
-This project is a fusion of classic Snake gameplay with the power of machine learning. Using PyTorch and reinforcement learning, a neural network is trained to play the game autonomously, learning from its own successes and failures over time.
+# 🐍 Snake Game with Neural Networks (Pygame + PyTorch)
+
+A classic Snake game powered by a neural network trained via reinforcement learning. The AI learns to play Snake using deep Q-learning and PyTorch, all rendered in real-time with Pygame.
+
+---
+
+## 📂 Project Structure
+
+```bash
+snake-pygame/
+├── agent.py         # RL agent logic
+├── helper.py        # Utility functions
+├── model.py         # Neural network model (PyTorch)
+├── snake_game.py    # Game environment (Pygame)
+├── model/           # Saved models and training checkpoints
