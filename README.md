@@ -56,6 +56,7 @@ Follow these steps to get the project up and running:
    cd Python-SnakeGame-NeuralNets/snake-pygame
 
 2. Install the necessary dependencies:
+   ```bash
    pip install pygame torch
 
 
