@@ -19,7 +19,7 @@ snake-pygame/
 
 ---
 
-# 🎮 How It Works
+# 🐍 Snake Game with Neural Networks (Pygame + PyTorch)
 
 The game works in the following steps:
 
